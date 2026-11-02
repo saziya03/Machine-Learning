@@ -1,1 +1,60 @@
+# 🤖 Types of Machine Learning
+
+## 📌 Introduction
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed.
+
+This folder contains notes and practice examples about the different types of Machine Learning.
+
+## 🎯 Types of Machine Learning
+
+### 🔵 1. Supervised Learning
+Supervised Learning uses labelled data to train a model.
+
+- **Classification:** Predicts categories or classes.
+- **Regression:** Predicts numerical values.
+
+**Examples:** Spam Detection, House Price Prediction.
+
+### 🟢 2. Unsupervised Learning
+Unsupervised Learning uses unlabelled data to discover hidden patterns and groups.
+
+- Clustering
+- Association
+- Dimensionality Reduction
+
+**Examples:** Customer Segmentation, Market Basket Analysis.
+
+### 🟡 3. Semi-Supervised Learning
+Uses a combination of a small amount of labelled data and a large amount of unlabelled data.
+
+**Examples:** Image Classification, Text Classification.
+
+### 🔴 4. Reinforcement Learning
+An agent learns by interacting with an environment and receiving rewards or penalties for its actions.
+
+**Examples:** Robotics, Game Playing, Self-Driving Systems.
+
+## 📊 Comparison
+
+| ML Type | Data Used | Purpose |
+|---|---|---|
+| Supervised | Labelled | Prediction |
+| Unsupervised | Unlabelled | Pattern Discovery |
+| Semi-Supervised | Both | Learning with limited labels |
+| Reinforcement | Rewards & Penalties | Learning through interaction |
+
+## 🛠️ Tools & Technologies
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Scikit-learn
+
+## 💡 Applications
+- Fraud Detection
+- Recommendation Systems
+- Customer Churn Prediction
+- Image Recognition
+- Natural Language Processing
+- Sales Forecasting
 
